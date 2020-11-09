@@ -1,0 +1,20 @@
+1
+Irving Alexis
+Catalan Vázquez
+24
+Estudiante
+2
+Luis Alberto
+Lopez Limón
+24
+Estudiante
+3
+José Ernesto 
+Castro Alonso
+17
+Estudiante
+4
+Luz Maria
+Guerra Lopez
+23
+Gerente
